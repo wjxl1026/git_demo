@@ -5,4 +5,7 @@ hello Let's star
 hello Let's start:
 hello Let's star    master test
 this is second      hot-fix
+hello Let's star
+hello Let's star
+this is second: dg      hot-fix
 branch change
